@@ -1,16 +1,5 @@
 # Movie Recommendation System
 
-# Content Page
-
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-  - [Data Collection and Analysis](#data-collection-and-analysis)
-  - [Feature Engineering and Model Building](#feature-engineering-and-model-building)
-  - [GUI Development and Deployment](#gui-development-and-deployment)
-- [Project Images](#project-images)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -36,17 +25,7 @@ The project culminates in a user-friendly graphical interface created using the 
 
 The deployment aspect involves the use of Docker for containerization, ensuring consistent behavior across different environments. Leveraging the Render cloud platform, the web application is deployed, making it accessible to users through a server.
 
-## Project Images
-![Project Images](images/image1.png)
-![Project Images](images/image2.png)
-![Project Images](images/image3.png)
-![Project Images](images/image4.png)
-![Project Images](images/image5.png)
 
-
-### Image Description
-
-The images above encapsulate different stages of the project, portraying the data collection and analysis phase, feature engineering, model building, GUI development, and the deployment process.
 
 ## Usage
 
@@ -55,11 +34,3 @@ To utilize the Movie Recommendation System:
 1. Clone this repository.
 2. Install the required dependencies.
 3. Run the application using Streamlit.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or questions regarding the project, feel free to contact [Abhijeet Maharana](mailto:abhijeetmaharana77@gmail.com).
