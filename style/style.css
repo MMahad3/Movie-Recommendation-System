@@ -1,0 +1,72 @@
+/* Set a clean modern font and background */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Hide Streamlit header and footer */
+#MainMenu, footer, header {
+  visibility: hidden;
+}
+
+/* Style the title */
+h1 {
+  text-align: center;
+  color: #1f2937;
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+/* Style the select box */
+.css-2trqyj {
+  background-color: #e5e7eb;
+  color: #39ffff;
+  border-radius: 8px;
+  padding: 10px;
+  border: none;
+}
+
+/* Style all images inside columns */
+.stImage > img {
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Style recommendation movie text */
+.css-10trblm {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 5px;
+}
+
+/* Contact form styling */
+input[type=message], input[type=email], input[type=text], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  font-size: 1em;
+}
+
+button[type=submit] {
+  background-color: #3b82f6;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button[type=submit]:hover {
+  background-color: #2563eb;
+}
+
+/* Column spacing (make posters look better spaced) */
+.css-1r6slb0 {
+  padding: 1rem !important;
+}
