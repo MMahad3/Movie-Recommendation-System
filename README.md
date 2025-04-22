@@ -33,4 +33,5 @@ To utilize the Movie Recommendation System:
 
 1. Clone this repository.
 2. Install the required dependencies.
-3. Run the application using Streamlit.
+3. Run the colab notebook to create similarity.pkl file.
+4. Run the app.py file using Streamlit.
