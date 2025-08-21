@@ -4,7 +4,6 @@ import pandas as pd
 import requests
 import random
 
-#set the page configuration
 st.set_page_config(page_title="Movie Recommendation System",page_icon=":tada:",layout="wide")
 
 @st.cache_data
