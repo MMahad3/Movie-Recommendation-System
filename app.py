@@ -8,7 +8,6 @@ st.set_page_config(page_title="Movie Recommendation System",page_icon=":tada:",l
 
 @st.cache_data
 
-# making a dummy function (not required)
 def ob():
 	pass
 
