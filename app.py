@@ -11,7 +11,7 @@ st.set_page_config(page_title="Movie Recommendation System",page_icon=":tada:",l
 def ob():
 	pass
 
-#importing the dataframe and similarity matrix 
+
 movie_dict=pickle.load(open("movie_dict.pkl","rb"))
 movie=pd.DataFrame(movie_dict)
 similarity=pickle.load(open("similarity.pkl","rb"))
